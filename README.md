@@ -1,7 +1,3 @@
-# password-strength-checker
-
-Java console application to evaluate password strength with validation and feedback
-
 # Password Strength Checker
 
 This is a Java console application that evaluates password strength based on common security rules.
